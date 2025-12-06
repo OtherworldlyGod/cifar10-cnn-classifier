@@ -3,7 +3,7 @@ A custom Convolutional Neural Network (CNN) built from scratch using TensorFlow/
 
 # Image Classification using CNN (CIFAR-10)
 
-##Project Overview
+## Project Overview
 This project involves building and training a Convolutional Neural Network (CNN) **from scratch** to classify images into 10 distinct categories. The goal was to demonstrate a deep understanding of CNN architecture design, training dynamics, and model evaluation without relying on pre-trained models (like ResNet or VGG).
 
 **Dataset Used:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
