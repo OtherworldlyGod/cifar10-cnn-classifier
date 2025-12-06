@@ -93,7 +93,7 @@ During the development process, several iterations were tested:
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1.  Open the `.ipynb` file in Google Colab or Jupyter Notebook.
 2.  Ensure a GPU runtime is selected for faster training.
 3.  Run all cells sequentially.
