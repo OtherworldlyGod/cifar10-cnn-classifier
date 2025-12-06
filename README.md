@@ -90,7 +90,6 @@ During the development process, several iterations were tested:
 2.  **Added Batch Normalization:** This single change improved accuracy by ~15% and stabilized the loss curve.
 3.  **Tuning Dropout:** Increasing Dropout in the dense layer from 0.3 to 0.5 helped reduce the gap between training and validation accuracy.
 
-
 ---
 
 ## How to Run
